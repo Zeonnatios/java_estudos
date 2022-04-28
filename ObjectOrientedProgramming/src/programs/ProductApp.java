@@ -44,6 +44,7 @@ public class ProductApp {
 
         System.out.println();
         System.out.println(product);
+        System.out.printf("%.2f", product.totalValueInStock());
         System.out.println();
 
 
