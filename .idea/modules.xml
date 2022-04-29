@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtraTopics/ExtraTopics.iml" filepath="$PROJECT_DIR$/ExtraTopics/ExtraTopics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEstudos.iml" filepath="$PROJECT_DIR$/.idea/JavaEstudos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/ObjectOrientedProgramming/ObjectOrientedProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/programming_structures/programming_structures.iml" filepath="$PROJECT_DIR$/programming_structures/programming_structures.iml" />
