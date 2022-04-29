@@ -19,6 +19,7 @@ public class Exercise1 {
         int total = firstValue + secondValue;
 
         System.out.println("Out: " + total);
+        sc.close();
     }
 
 

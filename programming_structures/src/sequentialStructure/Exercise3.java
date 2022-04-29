@@ -23,6 +23,7 @@ public class Exercise3 {
         int result = valueA * valueB - valueC * valueD;
 
         System.out.println("Difference: " + result);
+        sc.close();
 
 
     }

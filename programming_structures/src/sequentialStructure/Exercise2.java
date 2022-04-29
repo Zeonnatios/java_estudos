@@ -13,6 +13,7 @@ public class Exercise2 {
 
         double result = 3.14159 * value * value;
         System.out.println("Out: " + String.format("%.4f%n", result));
+        sc.close();
     }
 
 }
