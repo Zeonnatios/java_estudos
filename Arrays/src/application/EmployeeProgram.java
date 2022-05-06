@@ -1,4 +1,4 @@
-package Application;
+package application;
 
 import entities.Employee;
 import java.util.ArrayList;
